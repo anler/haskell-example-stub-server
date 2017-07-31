@@ -1,0 +1,10 @@
+Usage:
+  mdes [-H HOST] [-p PORT] [-k PATH]
+
+Options:
+  -H HOST  Server host [default: 127.0.0.1]
+  -p PORT  Server port number [default: 8080]
+  -k PATH  Path to private key used in session [default: key.pem]
+
+Options:
+  -h --help   Show this.
